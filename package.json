@@ -1,0 +1,24 @@
+{
+  "name": "dockerfile-nodejs-web",
+  "version": "1.0.0",
+  "description": "Learning build dockerfile for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseckwon/dockerfile-nodejs-web.git"
+  },
+  "keywords": [
+    "dockerfile",
+    "nodejs"
+  ],
+  "author": "Jakkrapan Wongchan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesseckwon/dockerfile-nodejs-web/issues"
+  },
+  "homepage": "https://github.com/jesseckwon/dockerfile-nodejs-web#readme"
+}
